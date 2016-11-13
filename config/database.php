@@ -1,5 +1,4 @@
 <?php
-	include('config.php');
 	include('lib/medoo.php');
 
 	$database = new medoo([
